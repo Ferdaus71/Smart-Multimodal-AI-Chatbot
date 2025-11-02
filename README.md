@@ -25,5 +25,5 @@ The **Smart Multimodal AI Chatbot** is an advanced conversational AI designed fo
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/Smart-Multimodal-AI-Chatbot.git
+git clone https://github.com/Ferdaus71/Smart-Multimodal-AI-Chatbot.git
 cd Smart-Multimodal-AI-Chatbot
